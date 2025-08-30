@@ -1,1 +1,1 @@
-# streamlit-sustainable_supplier
+# sustainable_supplier_tool
